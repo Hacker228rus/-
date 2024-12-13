@@ -1,4 +1,4 @@
-from task_1 import Book, BankAccount, SocialNetworkPost # TODO: импортируйте классы, созданные в ходе выполнения прошлого задания
+from task import Book, BankAccount, SocialNetworkPost # TODO: импортируйте классы, созданные в ходе выполнения прошлого задания
 
 if __name__ == "__main__":
     # TODO: инстанцировать все описанные классы, создав три объекта.
